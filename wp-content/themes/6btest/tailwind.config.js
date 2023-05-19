@@ -11,6 +11,9 @@ module.exports = {
                 },
             ],
         },
+        colors: {
+            'basePurple': '#6941C6'
+        }
     },
     plugins: [],
 }
